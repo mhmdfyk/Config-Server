@@ -1,7 +1,7 @@
 
 application:
     file:
-        location: C:\\file.txt
+        location: D:\\file.txt
 eureka:
   client:
     register-with-eureka: true
